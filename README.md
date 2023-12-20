@@ -1,2 +1,2 @@
-# Python-Analyze-Clusterization-and-Classification
+# Python-Analysis-Clusterization-and-Classification
 Iris dataset
